@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94658911-cafd-4472-a492-40777efc917c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab3/IntDList/BuggyIntDList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/IntDList/BuggyIntDList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-fa20" beforeDir="false" afterPath="$PROJECT_DIR$/../library-fa20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hW9CB9adtRzcfzih6M3kEWy18O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.LinkedListDequeTest">
+    <configuration name="LinkedListDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDeque" />
+      <module name="proj1a" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDequeTest" />
+      <module name="proj1a" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListDequeTest" />
+        <item itemvalue="Application.LinkedListDeque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94658911-cafd-4472-a492-40777efc917c" name="Default Changelist" comment="" />
+      <created>1600115852372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600115852372</updated>
+      <workItem from="1600115854140" duration="29885000" />
+      <workItem from="1600156801801" duration="130000" />
+      <workItem from="1600156949996" duration="83000" />
+      <workItem from="1600232106956" duration="11000" />
+      <workItem from="1600232133928" duration="19000" />
+      <workItem from="1600291769786" duration="2341000" />
+      <workItem from="1600389994553" duration="3000" />
+      <workItem from="1600390023612" duration="31000" />
+      <workItem from="1600722016260" duration="296000" />
+      <workItem from="1600756870845" duration="112000" />
+      <workItem from="1600851711984" duration="19000" />
+      <workItem from="1600851747484" duration="13000" />
+      <workItem from="1613518897511" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600156932690">
+      <screen x="0" y="23" width="1372" height="877" />
+    </state>
+    <state x="442" y="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1372.877@0.23.1372.877" timestamp="1600156932690" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1600153363728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600153363728" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1600153363727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600153363727" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1600153363726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600153363726" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1600153363728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600153363728" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1600153363730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600153363730" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1600153363729">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600153363729" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1600153363729">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600153363729" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1600153363730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600153363730" />
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom" timestamp="1600153363732">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600153363732" />
+    <state width="1398" height="304" key="GridCell.Tab.2.center" timestamp="1600153363731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1600153363731" />
+    <state width="1398" height="304" key="GridCell.Tab.2.left" timestamp="1600153363731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1600153363731" />
+    <state width="1398" height="304" key="GridCell.Tab.2.right" timestamp="1600153363732">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1600153363732" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1600129698758">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600129698758" />
+    <state x="113" y="72" key="new project wizard" timestamp="1600115886736">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="113" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1600115886736" />
+  </component>
+</project>
